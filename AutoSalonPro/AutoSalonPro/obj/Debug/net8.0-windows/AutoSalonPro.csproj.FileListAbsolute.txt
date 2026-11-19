@@ -1,0 +1,17 @@
+C:\Users\maest\OneDrive\Рабочий стол\ \Лабы Программная инженерия\files\AutoSalonPro_исходный_код\AutoSalonPro\bin\Debug\net8.0-windows\AutoSalonPro.exe
+C:\Users\maest\OneDrive\Рабочий стол\ \Лабы Программная инженерия\files\AutoSalonPro_исходный_код\AutoSalonPro\bin\Debug\net8.0-windows\AutoSalonPro.deps.json
+C:\Users\maest\OneDrive\Рабочий стол\ \Лабы Программная инженерия\files\AutoSalonPro_исходный_код\AutoSalonPro\bin\Debug\net8.0-windows\AutoSalonPro.runtimeconfig.json
+C:\Users\maest\OneDrive\Рабочий стол\ \Лабы Программная инженерия\files\AutoSalonPro_исходный_код\AutoSalonPro\bin\Debug\net8.0-windows\AutoSalonPro.dll
+C:\Users\maest\OneDrive\Рабочий стол\ \Лабы Программная инженерия\files\AutoSalonPro_исходный_код\AutoSalonPro\bin\Debug\net8.0-windows\AutoSalonPro.pdb
+C:\Users\maest\OneDrive\Рабочий стол\ \Лабы Программная инженерия\files\AutoSalonPro_исходный_код\AutoSalonPro\obj\Debug\net8.0-windows\AutoSalonPro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maest\OneDrive\Рабочий стол\ \Лабы Программная инженерия\files\AutoSalonPro_исходный_код\AutoSalonPro\obj\Debug\net8.0-windows\AutoSalonPro.AssemblyInfoInputs.cache
+C:\Users\maest\OneDrive\Рабочий стол\ \Лабы Программная инженерия\files\AutoSalonPro_исходный_код\AutoSalonPro\obj\Debug\net8.0-windows\AutoSalonPro.AssemblyInfo.cs
+C:\Users\maest\OneDrive\Рабочий стол\ \Лабы Программная инженерия\files\AutoSalonPro_исходный_код\AutoSalonPro\obj\Debug\net8.0-windows\AutoSalonPro.csproj.CoreCompileInputs.cache
+C:\Users\maest\OneDrive\Рабочий стол\ \Лабы Программная инженерия\files\AutoSalonPro_исходный_код\AutoSalonPro\obj\Debug\net8.0-windows\AutoSalonPro.dll
+C:\Users\maest\OneDrive\Рабочий стол\ \Лабы Программная инженерия\files\AutoSalonPro_исходный_код\AutoSalonPro\obj\Debug\net8.0-windows\refint\AutoSalonPro.dll
+C:\Users\maest\OneDrive\Рабочий стол\ \Лабы Программная инженерия\files\AutoSalonPro_исходный_код\AutoSalonPro\obj\Debug\net8.0-windows\AutoSalonPro.pdb
+C:\Users\maest\OneDrive\Рабочий стол\ \Лабы Программная инженерия\files\AutoSalonPro_исходный_код\AutoSalonPro\obj\Debug\net8.0-windows\AutoSalonPro.genruntimeconfig.cache
+C:\Users\maest\OneDrive\Рабочий стол\ \Лабы Программная инженерия\files\AutoSalonPro_исходный_код\AutoSalonPro\obj\Debug\net8.0-windows\ref\AutoSalonPro.dll
+C:\Users\maest\OneDrive\Рабочий стол\ \Лабы Программная инженерия\files\AutoSalonPro_исходный_код\AutoSalonPro\obj\Debug\net8.0-windows\AutoSalo.E4BF4859.Up2Date
+C:\Users\maest\OneDrive\Рабочий стол\ \Лабы Программная инженерия\files\AutoSalonPro_исходный_код\AutoSalonPro\obj\Debug\net8.0-windows\AutoSalonPro.Forms.FormCarCard.resources
+C:\Users\maest\OneDrive\Рабочий стол\ \Лабы Программная инженерия\files\AutoSalonPro_исходный_код\AutoSalonPro\obj\Debug\net8.0-windows\AutoSalonPro.csproj.GenerateResource.cache
